@@ -2,7 +2,7 @@ cat > README.md << 'EOF'
 # Down time of the Machine
 
 ## Dashboard Preview
-![Dashboard Preview](images/netflix_dashboard.png)
+!(Deloitte Data Anlaytics/Down time of the machines.png)
 
 ## Interactive Dashboard
 🔗 View Dashboard:
