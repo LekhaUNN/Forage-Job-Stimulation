@@ -1,1 +1,13 @@
+cat > README.md << 'EOF'
+# Down time of the Machine
+
+## Dashboard Preview
+![Dashboard Preview](images/netflix_dashboard.png)
+
+## Interactive Dashboard
+🔗 View Dashboard:
+https://public.tableau.com/shared/MWSM59N35?:display_count=n&:origin=viz_share_link
+
+## Tools Used
+- Tableau Public
 
